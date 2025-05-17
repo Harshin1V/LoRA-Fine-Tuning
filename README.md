@@ -1,7 +1,7 @@
 
 # LoRA Fine Tuning
 
-This repository demonstrates fine-tuning [TinyLlama](https://huggingface.co/cognitionai/TinyLlama-1.1B-Chat-v1.0) models using Low-Rank Adaptation (LoRA), a parameter-efficient technique for adapting pre-trained language models to downstream tasks with reduced computational cost.
+This repository demonstrates fine-tuning [TinyLlama](https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0) models using Low-Rank Adaptation (LoRA), a parameter-efficient technique for adapting pre-trained language models to downstream tasks with reduced computational cost.
 
 ---
 
