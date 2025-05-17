@@ -9,6 +9,8 @@ This repository demonstrates fine-tuning [TinyLlama](https://huggingface.co/Tiny
 
 LoRA (Low-Rank Adaptation) is a training technique that allows you to insert trainable low-rank matrices into the attention layers of a Transformer model while keeping the original pre-trained weights frozen. This significantly reduces the number of trainable parameters and allows efficient fine-tuning even on low-resource hardware.
 
+arxiv paper: [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)
+
 ---
 
 ## 🗂️ Repository Structure
